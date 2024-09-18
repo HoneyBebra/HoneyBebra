@@ -1,1 +1,1 @@
-<img src="./Shrek.gif" width="640" height="480" />
+<img src="./Shrek.gif" width="352" height="240" />
